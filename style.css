@@ -1,0 +1,12 @@
+.bg-image {
+    width: 100%;
+    height: 80vh;
+    background: url(images/pexels-kaique-rocha-3568789.jpg) center/cover;
+}
+
+.navbar {
+    z-index: 10;
+}
+
+
+
